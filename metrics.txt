@@ -1,0 +1,6 @@
+Average Node Degree: 1.64
+On average, each movie is similar to 1.64 other movies. This is a directed graph, so we are only counting the average number of edges out OR in. If it weren’t directed, each movie would be similar to 3.28 other. 
+Diameter of the Graph: 11
+This looks at the two movies that are the least similar. To get from one movie to the other, you need to jump between 11 different movies to get there in the shortest path. 
+Average Path Length: 3.204
+On average, you can get from one movie to another in 3.04 jumps.

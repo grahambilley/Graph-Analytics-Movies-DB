@@ -1,0 +1,1 @@
+Node degree used to determine node size. Modularity was used to color. “Orbiting” nodes (black) were small communities of movies that were disconnected from most other movies (indie films?). Non-orbiting movies with few connections are light grey. Medium numbers of connections are blue. Most connections are red. Movies are cool!
